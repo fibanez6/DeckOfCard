@@ -40,7 +40,7 @@ Write an implementation of the class that compiles and passes the tests.
 
 ## IMPLEMENTATION
 
-This project contains 2 implementations with different data structures. When you run the program, it will ask you which data structure tu use.
+This project contains 2 implementations with different data structures. When you run the program, it will ask you which data structure to use.
 
 * [Array](/src/main/java/com/fibanez/DeckArrayImpl.java)
 
